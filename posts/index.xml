@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mto.nu</title>
-    <link>https://mto79.github.io/</link>
-    <description>Recent content on mto.nu</description>
+    <title>Posts on mto.nu</title>
+    <link>https://mto79.github.io/posts/</link>
+    <description>Recent content in Posts on mto.nu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>marc@mto.nu</managingEditor>
     <webMaster>marc@mto.nu</webMaster>
     <lastBuildDate>Sat, 27 Jun 2020 01:55:22 +0200</lastBuildDate>
     
-	<atom:link href="https://mto79.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mto79.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,17 +21,6 @@
       <guid>https://mto79.github.io/posts/2020-07-03-semper-exploro/</guid>
       <description>Semper exploro (&amp;ldquo;I am always exploring&amp;rdquo;) is the motto of this personal blog. It is also a line which can be found on a Earth Starfleet Command Emblem from the series Star Trek Enterprise. Which, i love to watch!
 As a grumpy bearded sysadmin in the day time i&amp;rsquo;m doing professional exploration for The National Archives of the Netherlands and in the evenings my personal exploration. Working in an archive makes you aware, that sometimes you want to register and share some piece of information with others or with yourself (for that matter) sometime at a latter point the future.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://mto79.github.io/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>marc@mto.nu</author>
-      <guid>https://mto79.github.io/page/about/</guid>
-      <description>Hi, i&amp;rsquo;m Marc Ouwerkerk and the letters MTO are my initials.
-Currently living in The Hague, Netherlands with my splendid wife and coolest kid ever.
-In my daily live i&amp;rsquo;m a grumpy bearded sysadmin with a special interest in all kind of programming-languages and devops-related issues.</description>
     </item>
     
   </channel>
