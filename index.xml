@@ -8,11 +8,7 @@
     <language>en-us</language>
     <managingEditor>marc@mto.nu</managingEditor>
     <webMaster>marc@mto.nu</webMaster>
-    <lastBuildDate>Sun, 16 May 2021 01:55:22 +0200</lastBuildDate>
-    
-	<atom:link href="https://mto79.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 16 May 2021 01:55:22 +0200</lastBuildDate><atom:link href="https://mto79.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Semper Exploro....</title>
       <link>https://mto79.github.io/posts/2021-05-17-semper-exploro/</link>

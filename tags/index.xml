@@ -7,10 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>marc@mto.nu</managingEditor>
-    <webMaster>marc@mto.nu</webMaster>
-    
-	<atom:link href="https://mto79.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <webMaster>marc@mto.nu</webMaster><atom:link href="https://mto79.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
