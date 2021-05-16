@@ -10,6 +10,15 @@
     <webMaster>marc@mto.nu</webMaster>
     <lastBuildDate>Sun, 16 May 2021 01:55:22 +0200</lastBuildDate><atom:link href="https://mto79.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Installing Fedora CoreOS on Hetzner Cloud</title>
+      <link>https://mto79.github.io/posts/2021-05-17-fedora-coreos-terraform-hetzner/</link>
+      <pubDate>Sun, 16 May 2021 01:55:22 +0200</pubDate>
+      <author>marc@mto.nu</author>
+      <guid>https://mto79.github.io/posts/2021-05-17-fedora-coreos-terraform-hetzner/</guid>
+      <description>test jkllhlhhh</description>
+    </item>
+    
+    <item>
       <title>Semper Exploro....</title>
       <link>https://mto79.github.io/posts/2021-05-17-semper-exploro/</link>
       <pubDate>Sun, 16 May 2021 01:55:22 +0200</pubDate>
